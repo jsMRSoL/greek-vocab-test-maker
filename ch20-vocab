@@ -1,0 +1,44 @@
+Greek,Part of Speech,English,Test
+"ἔνιοι, ἔνιαι , ἔνια",adj 212,some,20
+"ἐπιτήδειος, ἐπιτηδεία, ἐπιτήδειον",adj 212,"friendly, favourable",20
+"ἰσχυρός, ἰσχυρά, ἰσχυρόν",adj 212,strong,20
+"πατρῷος, πατρῴα, πατρῷον",adj 212,of a father,20
+"ὑψηλός, ὑψηλή, ὑψηλόν",adj 212,high,20
+"ἄδικος, ἄδικον",adj 22,criminal,20
+ἐνθάδε,adv,"here, there",20
+ἴσως,adv,perhaps,20
+πως,adv,"in some way, somehow",20
+δέ,conj,"and, but",20
+οἷ,conj,whither,20
+"ἀθυμία, ἀθυμίας, ἡ",noun 1 f,despondency,20
+"βοή, βοῆς, ἡ",noun 1 f,shout,20
+"λόγχη, λόγχης, ἡ",noun 1 f,spear,20
+"βίβλος, βίβλου, ἡ",noun 2 f,book,20
+"ἐνιαυτός, ἐνιαυτοῦ, ὁ",noun 2 m,year,20
+"κατήγορος, κατηγόρου, ὁ",noun 2 m,accuser,20
+"φόνος, φόνου, ὁ",noun 2 m,murder,20
+"πλοῖον, πλοίου, τό",noun 2 n,"boat, cargo ship",20
+"θυγάτηρ, θυγατρός, ἡ",noun 3 f,daughter,20
+"τάξις, τάξεως, ἡ",noun 3 f,"arrangement, rank, (battle) order",20
+"ποιμήν, ποιμένος, ὁ",noun 3 m,shepherd,20
+"δόρυ, δόρατος, τό",noun 3 n,"spear, plank",20
+"ξίφος, ξίφους, τό",noun 3 n,sword,20
+"τεῖχος, τείχους, τό",noun 3 n,wall,20
+ἀντί,prep,instead of GEN,20
+μετά,prep,after ACC,20
+"σύ, σοῦ",pronoun,you,20
+"αἱρέω, αἱρήσω, εἷλον, ᾑρέθην",verb,I take,20
+"αἴρω, ἀρῶ, ἦρα, ἤρθην",verb,"I raise, lift",20
+"ἀρέσκω, ἀρέσω, ἤρεσα, ἠρέσθην",verb,I please (+ dat.),20
+"διαφθείρω, διαφθερῶ, διέφθειρα, διεφθάρην",verb,"I destroy, corrupt",20
+"κινδυνεύω, κινδυνεύσω, ἐκινδύνευσα, ἐκινδυνεύθην",verb,I risk; I am likely to,20
+"κλείω, κλείσω, ἔκλεισα, ἐκλείσθην",verb,I shut,20
+"κλέπτω, κλέψω, ἔκλεψα, ἐκλάπην",verb,I steal,20
+"συγγιγνώσκω, συγγνώσομαι, συνέγνων, συνεγνώσθην",verb,I pardon (+ dat.),20
+"τοξεύω, τοξεύσω, ἐτόξευσα, ἐτοξεύθην",verb,I shoot,20
+"φονεύω, φονεύσω, ἐφονεύσα, ἐφονεύθην",verb,"I murder, kill",20
+"γαμέομαι, γαμοῦμαι, ἐγημάμην",verb (deponent),I marry,20
+"ἐπίσταμαι, ἐπιστήσομαι, ἠπιστήθην",verb (deponent),"I understand, know (how to)",20
+"παύομαι, παύσομαι, ἐπαυσάμην",verb (deponent),I cease (from doing something),20
+"ποιέομαι, ποιήσομαι, ἐποιησάμην",verb (deponent),I value,20
+"χάριν ἔχω / οἶδα",verb phrase,I thank,20
